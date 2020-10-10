@@ -1,5 +1,5 @@
 #pro{
-    width: 50%;
+    width: 30%;
     border-radius: 25px;
     
 }
@@ -34,3 +34,14 @@ body::-webkit-scrollbar {
   #backg{
       padding-top: 60px;
   }
+#exp3
+{
+  margin-left:-2%;
+
+}
+#exp5{
+  padding-top: 30px;
+}
+#exp4{
+  border-radius:25px;
+}
